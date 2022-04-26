@@ -1,6 +1,6 @@
 # AndroidDebugBridge
 
-(Работа в ADB на примере приложения TodoList)
+### Работа в ADB на примере приложения TodoList [смотреть здесь](https://youtu.be/HfERkKEtxi8)
 
 ---
 
