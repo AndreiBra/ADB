@@ -1,7 +1,6 @@
 # AndroidDebugBridge
 
 ### Работа в ADB на примере приложения TodoList [смотреть здесь](https://youtu.be/HfERkKEtxi8)
-
 ---
 
 1.	Установить SDK Platform Tools:
